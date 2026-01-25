@@ -1,7 +1,7 @@
 ## Hello
-# I'm TheCoolRobot!
-I like to code in: 
-<br>
+# I'm Quasar!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Symbol Here: ####)](https://git.io/typing-svg)
+I just like to code things(random things);
+I also like using AI and uncovering its true stupidity!;
+
 
