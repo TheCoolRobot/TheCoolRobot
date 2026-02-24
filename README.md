@@ -14,4 +14,6 @@ I also like using AI and uncovering its true stupidity! ;)
 * Go
 * TypeScript-React is my favorite
 * JavaScript-Same deal with React
+* HTML
+
   
