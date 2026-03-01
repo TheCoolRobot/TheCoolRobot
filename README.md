@@ -15,5 +15,6 @@ I also like using AI and uncovering its true stupidity! ;)
 * TypeScript-React is my favorite
 * JavaScript-Same deal with React
 * HTML
+* Currently learning Haxe
 
   
