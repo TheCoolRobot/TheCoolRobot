@@ -18,4 +18,6 @@ I also like using AI and uncovering its true stupidity! ;)
 * Haxe
 * Kotlin
 
+### I make sofishicated things!
+
   
