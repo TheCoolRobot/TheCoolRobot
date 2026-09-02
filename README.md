@@ -4,6 +4,7 @@ I just like to code things(random things);
 I also like using AI and uncovering its true stupidity! ;) 
 ### I like to code in:
 * Rust 🦀
+* Dart
 * C++
 * C
 * C# 🎵
